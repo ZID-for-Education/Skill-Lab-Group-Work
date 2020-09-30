@@ -12,13 +12,16 @@ Our group decided to create a program that asks the user for the year they were 
 
 ## Usage
 
-`print("Hello, "+input("What is your name? ")+"!")
+Snippet of Code:
+
+```python
+print("Hello, "+input("What is your name? ")+"!")
 year = int(input("What year were you born in?"))
 if year < 1900:
     print("You are very, very, very old.")
 elif year < 1928:
-    print("You came before the silent generation.")`
-
+    print("You came before the silent generation.")
+```
 
 ## How to Contribute 
 
